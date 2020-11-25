@@ -62,7 +62,7 @@ yandex_site_verification :
 # Site Author
 author:
   name             : "David Miller"
-  avatar           : "/images/avatar.jpg"
+  avatar           : /images/avatar.jpg
   bio              : "PhD Student in Computer Science"
   location         : "University of Utah"
   employer         :  
